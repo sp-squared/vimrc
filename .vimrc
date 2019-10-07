@@ -18,7 +18,7 @@ map <Up> <NOP>
 map <Left> <NOP>
 map <Right> <NOP>
 "Sets a marker than can be used gloally"
-inoremap <Space><Space> <Esc>/<Enter>"_c4l
+"inoremap <Space><Space> <Esc>/<Enter>"_c4l"
 "Sets jj in rapid succession to enter default mode"
 inoremap jj <Esc>
 
