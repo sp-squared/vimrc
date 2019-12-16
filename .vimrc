@@ -1,7 +1,7 @@
 "DEFAULT VIM SETTINGS"
 
 "The Current Color Being Used"
-color slate
+color evening
 "Enables Highlighting of Syntax"
 syntax on
 "Enables Line Numbers on left side of screen"
